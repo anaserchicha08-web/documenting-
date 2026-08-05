@@ -1,4 +1,4 @@
-# Ignore everything except the docs directory for git tracking
+# Ignore script/config files — only docs/ and .github/ are tracked on GitHub
 node_modules/
 .env
 progress.json
@@ -8,4 +8,3 @@ index.js
 concepts.js
 .env.example
 README.md
-.github/
