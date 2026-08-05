@@ -1,0 +1,23 @@
+{
+  "name": "daily-concept-documenter",
+  "version": "1.0.0",
+  "description": "Daily automated technical concept researcher, summarizer, and GitHub uploader",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "dry-run": "node index.js --dry-run",
+    "reset": "node index.js --reset"
+  },
+  "keywords": [
+    "networking",
+    "automation",
+    "github-actions",
+    "documentation"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.4.5"
+  }
+}
