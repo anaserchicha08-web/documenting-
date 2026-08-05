@@ -1,3 +1,11 @@
+# Ignore everything except the docs directory for git tracking
 node_modules/
 .env
-.DS_Store
+progress.json
+package.json
+package-lock.json
+index.js
+concepts.js
+.env.example
+README.md
+.github/
