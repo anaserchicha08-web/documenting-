@@ -1,12 +1,18 @@
 {
-  "currentIndex": 1,
-  "lastUpdated": "2026-08-05T09:12:17.959Z",
+  "currentIndex": 2,
+  "lastUpdated": "2026-08-05T09:15:54.574Z",
   "completedConcepts": [
     {
       "id": 1,
       "title": "Computer Basics",
       "slug": "01-computer-basics",
       "date": "2026-08-05T09:12:17.959Z"
+    },
+    {
+      "id": 2,
+      "title": "Networking Fundamentals",
+      "slug": "02-networking-fundamentals",
+      "date": "2026-08-05T09:15:54.574Z"
     }
   ]
 }
